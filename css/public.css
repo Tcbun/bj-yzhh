@@ -93,6 +93,7 @@ a:hover, a:active {
     font-size: 16px;
     margin-left: 27px;
     margin-right: 27px;
+    line-height: 34px;
 }
 
 .nav ul li:nth-of-type(2)::after, .nav ul li:nth-of-type(3)::after {
